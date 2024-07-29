@@ -1,5 +1,7 @@
 # sample-vue
 
+sample
+
 ## Project Setup
 
 ```sh
